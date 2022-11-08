@@ -19,5 +19,9 @@
     "fs-extra": "^10.1.0",
     "inquirer": "^8.2.5",
     "signale": "^1.4.0"
+  },
+  "dependencies": {
+    "ora": "^5.1.2",
+    "simple-git": "^3.14.1"
   }
 }
